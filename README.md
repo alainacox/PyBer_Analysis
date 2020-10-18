@@ -87,7 +87,8 @@ I used the following code to create the Summary:
         'Total Fares':city_fare_count,
         'Average Fare per Rider':city_avg_fare,
         'Average Fare per Driver':driver_avg})
-    pyber_summary_df
-![]
+    pyber_summary_df 
+   ![Data](https://github.com/alainacox/PyBer_Analysis/blob/main/Resources/data_summary.png)
+
  
 My recommendation to our CEO is to send additional resources to urban then suburban and rural throughout the year. Urban is making the most revenue due to higher demand. The reasons could be more business convention centers or more economic for consumer to catch share rides than owning a car. As well as the rides in the urban area tend to cost less than the rural area. Focus on Urban business line will drive better revenue to company. Rural is the lowest line in making money, but we still need to maintain our present as a way to adverstise and capture smaller market shares.
